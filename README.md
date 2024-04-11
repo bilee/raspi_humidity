@@ -1,5 +1,8 @@
 # raspi_humidity
 temp and humidity sensor via raspi
+DHT 22 Sensor
+https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf?scrlybrkr=8f7cc0a0
+
 This guide is pretty good! https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/
 Also, install this: 
 
