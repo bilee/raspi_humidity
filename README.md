@@ -11,11 +11,16 @@ sudo apt-get install libgpiod-dev
 
 ------------------------------
 This is the code for the libraries and communicating w sensor. Save as humidity.py
-import time
-import adafruit_dht
-import board
 
-dht_device = adafruit_dht.DHT22(board.D4)
+import time  
+
+import adafruit_dht  
+
+import board  
+
+
+dht_device = adafruit_dht.DHT22(board.D4)  
+
 
 while True:
     try:
