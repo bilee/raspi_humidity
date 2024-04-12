@@ -45,7 +45,7 @@ You will need to run this command every time you want to interact with your DHT2
 
 (So after you make yr py script...)
 
-ssh weatherman@sas-weather-he-mdf
+ssh username@hostname
 
 source env/bin/activate
 
