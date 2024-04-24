@@ -9,6 +9,12 @@ Also, install this:
 sudo apt-get install gpiod
 sudo apt-get install libgpiod-dev
 
+Apache on Pi
+http...
+
+LAMP on Pi
+https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress/5
+
 ------------------------------
 This is the code for the libraries and communicating w sensor. Save as humidity.py
 
