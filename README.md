@@ -15,6 +15,8 @@ http...
 LAMP on Pi
 https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress/5
 
+After database is made, navigate to MariaDB --> sudo mysql -uroot -p
+
 ------------------------------
 This is the code for the libraries and communicating w sensor. Save as humidity.py
 
