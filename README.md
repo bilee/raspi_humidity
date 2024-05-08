@@ -67,3 +67,6 @@ If instance is already running, you may have to kill libgpiod first.
 I am working on scripts to handle a bunch of this.
 Also learning how to display data to a webpage.
 
+-LAMP server is up!
+- Add alert notification to email when temp/humidity reaches +- threshhold Node-Red? AI asst?, python?
+
