@@ -21,6 +21,9 @@ If JSON errors in WP, try this -- https://blog.hubspot.com/website/json-response
 Node-Red on Ubuntu 
 https://medium.com/@keirish15/install-node-red-on-ubuntu-5e6a8c04aaed
 
+Node-Red node to manage connection to a DHT11 or DHT22 sensor on a Raspberry Pi. 
+https://flows.nodered.org/node/node-red-contrib-dht-sensor
+
 ------------------------------
 This is the code for the libraries and communicating w sensor. Save as humidity.py
 
