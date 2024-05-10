@@ -18,6 +18,9 @@ https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress/5
 After database is made, navigate to MariaDB --> sudo mysql -uroot -p
 If JSON errors in WP, try this -- https://blog.hubspot.com/website/json-response-error-wordpress#:~:text=Check%20your%20WordPress%20site%20URL,is%20using%20an%20SSL%20certificate).
 
+Node-Red on Ubuntu 
+https://medium.com/@keirish15/install-node-red-on-ubuntu-5e6a8c04aaed
+
 ------------------------------
 This is the code for the libraries and communicating w sensor. Save as humidity.py
 
